@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinema>
+    <film>
+        <filmAdi>Matrix</filmAdi>
+        <sure>120</sure>
+        <tur>Bilim Kurgu</tur>
+        <salonlar>
+            <salon>
+                <salonId>1</salonId>
+                <salonAdi>Salon 1</salonAdi>
+                <musteriler>
+                    <musteri>
+                        <id>101</id>
+                        <ad>Ahmet</ad>
+                    </musteri>
+                </musteriler>
+            </salon>
+        </salonlar>
+    </film>
+    <film>
+        <filmAdi>Titanic</filmAdi>
+        <sure>195</sure>
+        <tur>Romantik</tur>
+        <salonlar>
+            <salon>
+                <salonId>2</salonId>
+                <salonAdi>Salon 2</salonAdi>
+                <musteriler>
+                    <musteri>
+                        <id>102</id>
+                        <ad>Ayşe</ad>
+                    </musteri>
+                </musteriler>
+            </salon>
+        </salonlar>
+    </film>
+</sinema>
